@@ -45,6 +45,11 @@ img{
     height: 100%;
 }
 
+#h1{
+    text-align: center;
+    transition: all 0.5s;
+}
+
 .dark-mode{
     background-color: black;
     color: #ffffff;
